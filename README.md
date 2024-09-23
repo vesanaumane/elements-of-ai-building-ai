@@ -5,5 +5,5 @@ The course is a continuation to [Intoduction to AI](https://course.elementsofai.
 
 # Execises
 
-This repository contains my answers to the exercises.
+This repository contains my answers to the exercises. Exercises are divided to chapter folders.
 
